@@ -1,0 +1,44 @@
+{
+    "pack": {
+        "description": [
+            {
+                "color": "#5aafd6",
+                "text": "WynnEdits Dark Theme"
+            },
+            {
+                "text": " "
+            },
+            {
+                "color": "gray",
+                "text": "2.2.0"
+            },
+            {
+                "text": "\n"
+            },
+            {
+                "color": "gray",
+                "text": "1.21.11"
+            },
+            {
+                "text": " "
+            },
+            {
+                "color": "dark_gray",
+                "text": "Apr. 17, 2026"
+            }
+        ],
+        "max_format": [
+            84,
+            0
+        ],
+        "min_format": [
+            46,
+            0
+        ],
+        "pack_format": 75,
+        "supported_formats": {
+            "max_inclusive": 84,
+            "min_inclusive": 46
+        }
+    }
+}
